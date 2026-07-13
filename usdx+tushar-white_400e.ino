@@ -157,7 +157,7 @@ Don't forget to change the length to match your callsign if needed.
 #define SHOW_USB_LSB_CW_ONLY 1  // If defined, Menu will only cycle thro these 3 modes
 
 // AM & FM Modulation changes
-#define FM_ARCTAN 1         // Enable FM differentiator TEST - GW8RDI mod (Enabled to fix uninitialized variable issue)
+//#define FM_ARCTAN 1         // Enable FM differentiator TEST - GW8RDI mod
 //#define AM_MOD_MAGN_SQRT 1  // Use more accurate SQRT method
 
 // 2025/12/07 GW8RDI: CODE TO REDUCE PROG MEMORY:-
