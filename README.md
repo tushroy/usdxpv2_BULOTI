@@ -1,5 +1,5 @@
 # uSDX+ v2 BULOTI
-uSDX+ v2 (BULOTI) Original Firmware (raw binary) - by S21TIP
+uSDX+ v2 (BULOTI) R1.02w Original Firmware (raw binary) - by S21TIP
 
 ## [Download buloti_original.bin](https://github.com/tushroy/usdxpv2_BULOTI/raw/refs/heads/main/BULOTI_ORIG/buloti_original.bin)
 
