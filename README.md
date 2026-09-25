@@ -5,8 +5,9 @@ uSDX+ v2 (BULUTI) Original Firmware (raw binary) - by S21TIP
 
 <img src="BULUTI_ORIG/BULUTI1.jpeg" width="40%"><img src="BULUTI_ORIG/BULUTI2.jpeg" width="27%">
 
-Write options command sample
+Write options command in avrdude
 
 ```avrdude.exe -c stk500v1 -p m328p -P COM11 -b 19200 -U flash:w:"C:\Users\Tushar\Desktop\uxdsplus\buluti2.bin":r ```
 
+Or use AVRDUDESS
 <img src="BULUTI_ORIG/AVRDUDESS.PNG" width="40%">
