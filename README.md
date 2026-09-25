@@ -1,3 +1,3 @@
-# usdxpv2_wh_btns
-uSDX+ v2 (White Button) customizations
+# uSDX+ v2 BULUTI
+uSDX+ v2 (BULUTI) Original Firmware
 400e-WHITE-BUTTONS.ino is the file for version 4.0e of uSDX+ v2 (White Button) firmware
